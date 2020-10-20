@@ -6,7 +6,7 @@
 
 סיפריות שהשתמשנו בהם
 
-•	Platform import 
+•	import Platform
 
 •	import Time 
 
